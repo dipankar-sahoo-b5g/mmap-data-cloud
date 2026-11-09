@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtlClntAppOauthSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <commaSeparatedOauthScopes>Api, RefreshToken, CDPIngest, CDPQuery</commaSeparatedOauthScopes>
+    <externalClientApplication>Data360_Lakehouse_ECA</externalClientApplication>
+    <isFirstPartyAppEnabled>false</isFirstPartyAppEnabled>
+    <label>Data360 Lakehouse ECA OAuth Settings</label>
+    <oauthLink>00Daj00001ENcoq:888aj0000033ldN</oauthLink>
+</ExtlClntAppOauthSettings>
